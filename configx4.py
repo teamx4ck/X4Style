@@ -16,7 +16,7 @@ def one(name):
 	onf.write('\n')
 	onf.write(nam1)
 	onf.write('\n')
-	onf.write('echo Tool by team X4ck')
+	onf.write('echo "Tool by team X4ck"')
 	onf.write('\n')
 	onf.write(main3)
 def tow(name2):
