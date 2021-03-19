@@ -16,7 +16,7 @@ def one(name):
 	onf.write('\n')
 	onf.write(nam1)
 	onf.write('\n')
-	onf.write('Tool by team X4ck')
+	onf.write('echo Tool by team X4ck')
 	onf.write('\n')
 	onf.write(main3)
 def tow(name2):
@@ -27,7 +27,7 @@ def tow(name2):
 	onf.write('\n')
 	onf.write(nam2)
 	onf.write('\n')
-	onf.write('Tool by team X4ck')
+	onf.write('echo "Tool by team X4ck"')
 	onf.write('\n')
 	onf.write(main3)
 def three(name3):
@@ -38,7 +38,7 @@ def three(name3):
 	onf.write('\n')
 	onf.write(nam3)
 	onf.write('\n')
-	onf.write('Tool by team X4ck')
+	onf.write('echo "Tool by team X4ck"')
 	onf.write('\n')
 	onf.write(main3)
 def four(name4):
@@ -49,6 +49,6 @@ def four(name4):
 	onf.write('\n')
 	onf.write(nam4)
 	onf.write('\n')
-	onf.write('Tool by team X4ck')
+	onf.write('echo "Tool by team X4ck"')
 	onf.write('\n')
 	onf.write(main3)
